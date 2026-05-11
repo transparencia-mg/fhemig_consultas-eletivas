@@ -43,6 +43,8 @@ CHPB;2026;2;Psicologia;12
 CHPB;2026;2;Psiquiatria;553
 CHPB;2026;3;Psicologia;9
 CHPB;2026;3;Psiquiatria;640
+CHPB;2026;4;Psicologia;10
+CHPB;2026;4;Psiquiatria;601
 CSSI;2023;9;Dermatologia;8
 CSSI;2023;9;Fisioterapia;27
 CSSI;2023;9;Hansenologia;20
@@ -303,6 +305,15 @@ CSSI;2026;3;Nutrição;3
 CSSI;2026;3;Psicologia;36
 CSSI;2026;3;Serviço Social;17
 CSSI;2026;3;Terapia Ocupacional;12
+CSSI;2026;4;Cardiologia;30
+CSSI;2026;4;Clínica Médica;56
+CSSI;2026;4;Fisioterapia;11
+CSSI;2026;4;Fonoaudiologia;4
+CSSI;2026;4;Hansenologia;58
+CSSI;2026;4;Nutrição;5
+CSSI;2026;4;Psicologia;44
+CSSI;2026;4;Serviço Social;1
+CSSI;2026;4;Terapia Ocupacional;8
 HAC;2025;10;Cardiologia;101
 HAC;2025;10;Cirurgia de Cabeça e Pescoço;127
 HAC;2025;10;Cirurgia Geral;88
@@ -448,10 +459,36 @@ HAC;2026;3;Hematologia;156
 HAC;2026;3;Mastologia;428
 HAC;2026;3;Médico Paliativista;15
 HAC;2026;3;Odontologia;24
-HAC;2026;3;Oncologia Clínica;1724
+HAC;2026;3;Oncologia Clínica;1725
 HAC;2026;3;Psicólogo;45
 HAC;2026;3;Serviço Social;157
 HAC;2026;3;Urologia;359
+HAC;2026;4;Cardiologia;256
+HAC;2026;4;Cirurgia de Cabeça e Pescoço;255
+HAC;2026;4;Cirurgia Geral;179
+HAC;2026;4;Cirurgia Oncológica;1
+HAC;2026;4;Cirurgia Plástica;18
+HAC;2026;4;Cirurgia Torácica;71
+HAC;2026;4;Cirurgia Vascular;22
+HAC;2026;4;Clínica Médica;11
+HAC;2026;4;Coloproctologia;119
+HAC;2026;4;Dermatologia;106
+HAC;2026;4;Endocrinologia e Metabologia;80
+HAC;2026;4;Endoscopia;23
+HAC;2026;4;Enfermagem;208
+HAC;2026;4;Enfermeiro Paliativista;9
+HAC;2026;4;Fisioterapia;14
+HAC;2026;4;Fonoaudilogia;17
+HAC;2026;4;Fonoaudiologia;31
+HAC;2026;4;Ginecologia e Obstetrícia;88
+HAC;2026;4;Hematologia;99
+HAC;2026;4;Mastologia;403
+HAC;2026;4;Médico Paliativista;30
+HAC;2026;4;Odontologia;61
+HAC;2026;4;Oncologia Clínica;1643
+HAC;2026;4;Psicólogo;83
+HAC;2026;4;Serviço Social;220
+HAC;2026;4;Urologia;228
 HCM;2025;11;Cirurgia da Mão;11
 HCM;2025;11;Cirurgia Geral;12
 HCM;2025;11;Fonoaudiologia;11
@@ -476,6 +513,12 @@ HCM;2026;3;Dermatologia;67
 HCM;2026;3;Fonoaudiologia;103
 HCM;2026;3;Ginecologia e Obstetrícia;46
 HCM;2026;3;Oftamologia;10
+HCM;2026;4;Anestesiologia;43
+HCM;2026;4;Cirurgia da Mão;55
+HCM;2026;4;Cirurgia Geral;165
+HCM;2026;4;Dermatologia;42
+HCM;2026;4;Fonoaudiologia;82
+HCM;2026;4;Ginecologia e Obstetrícia;29
 HEM;2025;6;Cirurgia Plástica;13
 HEM;2025;6;Coloproctologia;7
 HEM;2025;6;Dermatologia;572
@@ -640,7 +683,7 @@ HEM;2026;1;Fisioterapia;106
 HEM;2026;1;Gastroenterologia;24
 HEM;2026;1;Ginecologia e Obstetrícia;147
 HEM;2026;1;Hansenologia;227
-HEM;2026;1;Infectologia Adulto;979
+HEM;2026;1;Infectologia Adulto;980
 HEM;2026;1;Nefrologia;50
 HEM;2026;1;Neurologia;35
 HEM;2026;1;Odontologia;9
@@ -663,7 +706,7 @@ HEM;2026;2;Fisioterapia;134
 HEM;2026;2;Gastroenterologia;28
 HEM;2026;2;Ginecologia e Obstetrícia;141
 HEM;2026;2;Hansenologia;232
-HEM;2026;2;Infectologia Adulto;937
+HEM;2026;2;Infectologia Adulto;938
 HEM;2026;2;Nefrologia;50
 HEM;2026;2;Neurologia;30
 HEM;2026;2;Odontologia;8
@@ -679,14 +722,14 @@ HEM;2026;3;Anestesiologia;1
 HEM;2026;3;Cirurgia Geral;9
 HEM;2026;3;Cirurgia Plástica;82
 HEM;2026;3;Coloproctologia;21
-HEM;2026;3;Dermatologia;815
+HEM;2026;3;Dermatologia;816
 HEM;2026;3;Endocrinologia e Metabologia;141
 HEM;2026;3;Enfermagem;731
 HEM;2026;3;Fisioterapia;161
 HEM;2026;3;Gastroenterologia;29
 HEM;2026;3;Ginecologia e Obstetrícia;159
-HEM;2026;3;Hansenologia;293
-HEM;2026;3;Infectologia Adulto;1241
+HEM;2026;3;Hansenologia;292
+HEM;2026;3;Infectologia Adulto;1244
 HEM;2026;3;Nefrologia;69
 HEM;2026;3;Neurologia;39
 HEM;2026;3;Odontologia;10
@@ -698,6 +741,29 @@ HEM;2026;3;Reumatologia;77
 HEM;2026;3;Serviço Social;401
 HEM;2026;3;Terapia Ocupacional;27
 HEM;2026;3;Urologia;20
+HEM;2026;4;Anestesiologia;8
+HEM;2026;4;Cirurgia Geral;7
+HEM;2026;4;Cirurgia Plástica;64
+HEM;2026;4;Coloproctologia;6
+HEM;2026;4;Dermatologia;703
+HEM;2026;4;Endocrinologia e Metabologia;128
+HEM;2026;4;Enfermagem;812
+HEM;2026;4;Fisioterapia;86
+HEM;2026;4;Gastroenterologia;35
+HEM;2026;4;Ginecologia e Obstetrícia;157
+HEM;2026;4;Hansenologia;272
+HEM;2026;4;Infectologia Adulto;1105
+HEM;2026;4;Nefrologia;58
+HEM;2026;4;Neurologia;31
+HEM;2026;4;Odontologia;6
+HEM;2026;4;Oftamologia;47
+HEM;2026;4;Ortopedia e Traumatologia;24
+HEM;2026;4;Psicologia;98
+HEM;2026;4;Psiquiatria;94
+HEM;2026;4;Reumatologia;54
+HEM;2026;4;Serviço Social;318
+HEM;2026;4;Terapia Ocupacional;34
+HEM;2026;4;Urologia;16
 HRBJA;2024;6;Bucomaxilofacial;3
 HRBJA;2024;6;Cirurgia Geral;4
 HRBJA;2024;6;Cirurgia Vascular;7
@@ -830,19 +896,19 @@ HRBJA;2025;11;Ortopedia e Traumatologia;204
 HRBJA;2025;12;Bucomaxilofacial;28
 HRBJA;2025;12;Cirurgia Geral;23
 HRBJA;2025;12;Cirurgia Plástica;18
-HRBJA;2025;12;Cirurgia Vascular;84
+HRBJA;2025;12;Cirurgia Vascular;23
 HRBJA;2025;12;Clínica Médica;3
 HRBJA;2025;12;Neurocirurgia;24
 HRBJA;2025;12;Neurologia;47
-HRBJA;2025;12;Ortopedia e Traumatologia;230
+HRBJA;2025;12;Ortopedia e Traumatologia;291
 HRBJA;2026;1;Bucomaxilofacial;30
 HRBJA;2026;1;Cirurgia Geral;22
 HRBJA;2026;1;Cirurgia Plástica;14
-HRBJA;2026;1;Cirurgia Vascular;50
+HRBJA;2026;1;Cirurgia Vascular;27
 HRBJA;2026;1;Clínica Médica;3
 HRBJA;2026;1;Neurocirurgia;67
 HRBJA;2026;1;Neurologia;100
-HRBJA;2026;1;Ortopedia e Traumatologia;266
+HRBJA;2026;1;Ortopedia e Traumatologia;289
 HRBJA;2026;2;Bucomaxilofacial;36
 HRBJA;2026;2;Cirurgia Geral;51
 HRBJA;2026;2;Cirurgia Plástica;18
@@ -854,13 +920,23 @@ HRBJA;2026;2;Neurologia;84
 HRBJA;2026;2;Ortopedia e Traumatologia;231
 HRBJA;2026;3;Bucomaxilofacial;48
 HRBJA;2026;3;Cirurgia Geral;76
-HRBJA;2026;3;Cirurgia Plástica;11
+HRBJA;2026;3;Cirurgia Plástica;12
 HRBJA;2026;3;Cirurgia Vascular;52
 HRBJA;2026;3;Clínica Médica;4
 HRBJA;2026;3;Neurocirurgia;130
 HRBJA;2026;3;Neurologia;110
 HRBJA;2026;3;Neurologia Clínica;120
 HRBJA;2026;3;Ortopedia e Traumatologia;305
+HRBJA;2026;4;Bucomaxilofacial;48
+HRBJA;2026;4;Cirurgia Geral;64
+HRBJA;2026;4;Cirurgia Plástica;17
+HRBJA;2026;4;Cirurgia Torácica;4
+HRBJA;2026;4;Cirurgia Vascular;76
+HRBJA;2026;4;Clínica Médica;7
+HRBJA;2026;4;Neurocirurgia;75
+HRBJA;2026;4;Neurologia;90
+HRBJA;2026;4;Neurologia Clínica;84
+HRBJA;2026;4;Ortopedia e Traumatologia;380
 HRJP;2024;11;Angiologia;10
 HRJP;2024;11;Cardiologia;74
 HRJP;2024;11;Cirurgia da Mão;2
@@ -1246,42 +1322,83 @@ HRJP;2026;3;Otorrinolaringologia;27
 HRJP;2026;3;Pediatria;70
 HRJP;2026;3;Psicologia;125
 HRJP;2026;3;Urologia;223
+HRJP;2026;4;Anestesiologia;65
+HRJP;2026;4;Angiologia;24
+HRJP;2026;4;Cardiologia;126
+HRJP;2026;4;Cirurgia Geral;103
+HRJP;2026;4;Cirurgia Plástica;16
+HRJP;2026;4;Cirurgia Vascular;27
+HRJP;2026;4;Coloproctologia;39
+HRJP;2026;4;Dermatologia;42
+HRJP;2026;4;Endocrinologia e Metabologia;104
+HRJP;2026;4;Enfermagem;81
+HRJP;2026;4;Fisioterapia;263
+HRJP;2026;4;Fonoaudiologia;58
+HRJP;2026;4;Gastroenterologia;21
+HRJP;2026;4;Ginecologia e Obstetrícia;259
+HRJP;2026;4;Mastologia;38
+HRJP;2026;4;Neurocirurgia;18
+HRJP;2026;4;Neurologia Pediatrico;32
+HRJP;2026;4;Ortopedia e Traumatologia;238
+HRJP;2026;4;Otorrinolaringologia;38
+HRJP;2026;4;Pediatria;34
+HRJP;2026;4;Psicologia;142
+HRJP;2026;4;Serviço Social;1
+HRJP;2026;4;Terapia Ocupacional;30
+HRJP;2026;4;Urologia;199
 IRS;2023;8;Neurologia;13
-IRS;2023;8;Psiquiatria;278
+IRS;2023;8;Psiquiatria;274
+IRS;2023;8;Psiquiatria IRS;4
 IRS;2023;9;Neurologia;22
-IRS;2023;9;Psiquiatria;252
+IRS;2023;9;Psiquiatria;243
+IRS;2023;9;Psiquiatria IRS;9
 IRS;2023;10;Neurologia;12
-IRS;2023;10;Psiquiatria;283
+IRS;2023;10;Psiquiatria;273
+IRS;2023;10;Psiquiatria IRS;10
 IRS;2023;11;Neurologia;13
-IRS;2023;11;Psiquiatria;296
+IRS;2023;11;Psiquiatria;289
+IRS;2023;11;Psiquiatria IRS;7
 IRS;2023;12;Neurologia;9
-IRS;2023;12;Psiquiatria;205
+IRS;2023;12;Psiquiatria;200
+IRS;2023;12;Psiquiatria IRS;5
 IRS;2024;1;Neurologia;17
-IRS;2024;1;Psiquiatria;266
+IRS;2024;1;Psiquiatria;263
+IRS;2024;1;Psiquiatria IRS;3
 IRS;2024;2;Neurologia;13
 IRS;2024;2;Psiquiatria;213
 IRS;2024;3;Neurologia;11
-IRS;2024;3;Psiquiatria;209
+IRS;2024;3;Psiquiatria;208
+IRS;2024;3;Psiquiatria IRS;1
 IRS;2024;4;Neurologia;14
-IRS;2024;4;Psiquiatria;359
+IRS;2024;4;Psiquiatria;353
+IRS;2024;4;Psiquiatria IRS;6
 IRS;2024;5;Neurologia;16
-IRS;2024;5;Psiquiatria;296
+IRS;2024;5;Psiquiatria;290
+IRS;2024;5;Psiquiatria IRS;6
 IRS;2024;6;Neurologia;15
-IRS;2024;6;Psiquiatria;319
+IRS;2024;6;Psiquiatria;315
+IRS;2024;6;Psiquiatria IRS;4
 IRS;2024;7;Neurologia;17
-IRS;2024;7;Psiquiatria;283
+IRS;2024;7;Psiquiatria;278
+IRS;2024;7;Psiquiatria IRS;5
 IRS;2024;8;Neurologia;15
-IRS;2024;8;Psiquiatria;301
+IRS;2024;8;Psiquiatria;294
+IRS;2024;8;Psiquiatria IRS;7
 IRS;2024;9;Neurologia;13
-IRS;2024;9;Psiquiatria;338
+IRS;2024;9;Psiquiatria;330
+IRS;2024;9;Psiquiatria IRS;8
 IRS;2024;10;Neurologia;15
-IRS;2024;10;Psiquiatria;407
+IRS;2024;10;Psiquiatria;402
+IRS;2024;10;Psiquiatria IRS;5
 IRS;2024;11;Neurologia;13
-IRS;2024;11;Psiquiatria;327
+IRS;2024;11;Psiquiatria;325
+IRS;2024;11;Psiquiatria IRS;2
 IRS;2024;12;Neurologia;8
-IRS;2024;12;Psiquiatria;268
+IRS;2024;12;Psiquiatria;267
+IRS;2024;12;Psiquiatria IRS;1
 IRS;2025;1;Neurologia;12
-IRS;2025;1;Psiquiatria;318
+IRS;2025;1;Psiquiatria;316
+IRS;2025;1;Psiquiatria IRS;2
 IRS;2025;2;Neurologia;13
 IRS;2025;2;Psiquiatria;353
 IRS;2025;3;Neurologia;10
@@ -1311,6 +1428,9 @@ IRS;2026;2;Psiquiatria;270
 IRS;2026;3;Neurologia;25
 IRS;2026;3;Psiquiatria;14
 IRS;2026;3;Psiquiatria IRS;258
+IRS;2026;4;Neurologia;23
+IRS;2026;4;Psiquiatria;2
+IRS;2026;4;Psiquiatria IRS;265
 MOV;2023;4;Anestesiologia;2
 MOV;2023;4;Banco de Leite;94
 MOV;2023;4;Cardiologia;24
@@ -1931,3 +2051,20 @@ MOV;2026;3;Pediatria;91
 MOV;2026;3;Psicologia;89
 MOV;2026;3;Psiquiatria;32
 MOV;2026;3;Serviço Social;75
+MOV;2026;4;Anestesiologia;53
+MOV;2026;4;Banco de Leite;335
+MOV;2026;4;Cardiologia;123
+MOV;2026;4;Endocrinologia e Metabologia;68
+MOV;2026;4;Enfermagem;10
+MOV;2026;4;Fisioterapia;119
+MOV;2026;4;Fonoaudilogia;36
+MOV;2026;4;Ginecologia e Obstetrícia;917
+MOV;2026;4;Mastologia;31
+MOV;2026;4;Nefrologia;9
+MOV;2026;4;Neurologia;31
+MOV;2026;4;Nutrição;53
+MOV;2026;4;Oftamologia;5
+MOV;2026;4;Pediatria;76
+MOV;2026;4;Psicologia;60
+MOV;2026;4;Psiquiatria;27
+MOV;2026;4;Serviço Social;48
