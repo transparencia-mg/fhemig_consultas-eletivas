@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.065,
+  "time": 0.054,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Consultas eletivas por unidade FHEMIG",
         "stats": {
-          "hash": "5f146d1c355c6852a4398891951e8373",
-          "bytes": 65213,
+          "hash": "d0a2feeb1eeb9eb5400b98c01536492c",
+          "bytes": 68784,
           "fields": 5,
-          "rows": 2183
+          "rows": 2300
         }
       },
-      "time": 0.055,
+      "time": 0.045,
       "scope": [
         "hash-count-error",
         "byte-count-error",
