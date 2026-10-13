@@ -51,6 +51,7 @@ CHPB;2026,0;6,0;Psicologia;7,0
 CHPB;2026,0;6,0;Psiquiatria;565,0
 CHPB;2026,0;7,0;Psiquiatria;597,0
 CHPB;2026,0;8,0;Psiquiatria;458,0
+CHPB;2026,0;9,0;Psiquiatria;428,0
 CSSI;2023,0;9,0;Dermatologia;8,0
 CSSI;2023,0;9,0;Fisioterapia;27,0
 CSSI;2023,0;9,0;Hansenologia;20,0
@@ -337,7 +338,7 @@ CSSI;2026,0;6,0;Fisioterapia;9,0
 CSSI;2026,0;6,0;Fonoaudiologia;3,0
 CSSI;2026,0;6,0;Hansenologia;70,0
 CSSI;2026,0;6,0;Nutrição;5,0
-CSSI;2026,0;6,0;Psicologia;15,0
+CSSI;2026,0;6,0;Psicologia;16,0
 CSSI;2026,0;6,0;Serviço Social;3,0
 CSSI;2026,0;6,0;Terapia Ocupacional;4,0
 CSSI;2026,0;7,0;Cardiologia;18,0
@@ -361,6 +362,17 @@ CSSI;2026,0;8,0;Nutrição;5,0
 CSSI;2026,0;8,0;Psicologia;32,0
 CSSI;2026,0;8,0;Serviço Social;12,0
 CSSI;2026,0;8,0;Terapia Ocupacional;3,0
+CSSI;2026,0;9,0;Cardiologia;38,0
+CSSI;2026,0;9,0;Clínica Médica;44,0
+CSSI;2026,0;9,0;Dermatologia;123,0
+CSSI;2026,0;9,0;Enfermagem;5,0
+CSSI;2026,0;9,0;Fisioterapia;15,0
+CSSI;2026,0;9,0;Fonoaudiologia;6,0
+CSSI;2026,0;9,0;Hansenologia;83,0
+CSSI;2026,0;9,0;Nutrição;4,0
+CSSI;2026,0;9,0;Psicologia;25,0
+CSSI;2026,0;9,0;Serviço Social;8,0
+CSSI;2026,0;9,0;Terapia Ocupacional;4,0
 HAC;2025,0;10,0;Cardiologia;101,0
 HAC;2025,0;10,0;Cirurgia de Cabeça e Pescoço;127,0
 HAC;2025,0;10,0;Cirurgia Geral;88,0
@@ -550,7 +562,7 @@ HAC;2026,0;5,0;Hematologia;86,0
 HAC;2026,0;5,0;Mastologia;277,0
 HAC;2026,0;5,0;Médico Paliativista;14,0
 HAC;2026,0;5,0;Odontologia;49,0
-HAC;2026,0;5,0;Oncologia Clínica;1213,0
+HAC;2026,0;5,0;Oncologia Clínica;1212,0
 HAC;2026,0;5,0;Psicólogo;57,0
 HAC;2026,0;5,0;Serviço Social;139,0
 HAC;2026,0;5,0;Urologia;210,0
@@ -566,7 +578,7 @@ HAC;2026,0;6,0;Coloproctologia;110,0
 HAC;2026,0;6,0;Dermatologia;187,0
 HAC;2026,0;6,0;Endocrinologia e Metabologia;71,0
 HAC;2026,0;6,0;Endoscopia;16,0
-HAC;2026,0;6,0;Enfermagem;177,0
+HAC;2026,0;6,0;Enfermagem;178,0
 HAC;2026,0;6,0;Enfermeiro Paliativista;3,0
 HAC;2026,0;6,0;Fisioterapia;12,0
 HAC;2026,0;6,0;Fonoaudiologia;46,0
@@ -633,6 +645,34 @@ HAC;2026,0;8,0;Psicólogo;60,0
 HAC;2026,0;8,0;Serviço Social;179,0
 HAC;2026,0;8,0;Terapia Ocupacional;5,0
 HAC;2026,0;8,0;Urologia;271,0
+HAC;2026,0;9,0;Anestesiologia;1,0
+HAC;2026,0;9,0;Cardiologia;257,0
+HAC;2026,0;9,0;Cirurgia de Cabeça e Pescoço;312,0
+HAC;2026,0;9,0;Cirurgia Geral;76,0
+HAC;2026,0;9,0;Cirurgia Oncológica;107,0
+HAC;2026,0;9,0;Cirurgia Torácica;53,0
+HAC;2026,0;9,0;Cirurgia Vascular;32,0
+HAC;2026,0;9,0;Clínica Médica;13,0
+HAC;2026,0;9,0;Coloproctologia;136,0
+HAC;2026,0;9,0;Dermatologia;180,0
+HAC;2026,0;9,0;Endocrinologia e Metabologia;79,0
+HAC;2026,0;9,0;Endoscopia;21,0
+HAC;2026,0;9,0;Enfermagem;180,0
+HAC;2026,0;9,0;Enfermeiro Paliativista;15,0
+HAC;2026,0;9,0;Fisioterapia;33,0
+HAC;2026,0;9,0;Fonoaudiologia;54,0
+HAC;2026,0;9,0;Ginecologia e Obstetrícia;47,0
+HAC;2026,0;9,0;Hematologia;125,0
+HAC;2026,0;9,0;Mastologia;448,0
+HAC;2026,0;9,0;Médico Paliativista;36,0
+HAC;2026,0;9,0;Neurologia;2,0
+HAC;2026,0;9,0;Nutrição;56,0
+HAC;2026,0;9,0;Odontologia;75,0
+HAC;2026,0;9,0;Oncologia Clínica;1747,0
+HAC;2026,0;9,0;Psicólogo;71,0
+HAC;2026,0;9,0;Serviço Social;177,0
+HAC;2026,0;9,0;Terapia Ocupacional;9,0
+HAC;2026,0;9,0;Urologia;292,0
 HCM;2025,0;11,0;Cirurgia da Mão;11,0
 HCM;2025,0;11,0;Cirurgia Geral;12,0
 HCM;2025,0;11,0;Fonoaudiologia;11,0
@@ -693,6 +733,13 @@ HCM;2026,0;8,0;Cirurgia Geral;224,0
 HCM;2026,0;8,0;Dermatologia;68,0
 HCM;2026,0;8,0;Fonoaudiologia;79,0
 HCM;2026,0;8,0;Ginecologia e Obstetrícia;43,0
+HCM;2026,0;9,0;Anestesiologia;81,0
+HCM;2026,0;9,0;Cardiologia;19,0
+HCM;2026,0;9,0;Cirurgia da Mão;37,0
+HCM;2026,0;9,0;Cirurgia Geral;302,0
+HCM;2026,0;9,0;Dermatologia;31,0
+HCM;2026,0;9,0;Fonoaudiologia;98,0
+HCM;2026,0;9,0;Ginecologia e Obstetrícia;24,0
 HEM;2025,0;6,0;Cirurgia Plástica;13,0
 HEM;2025,0;6,0;Coloproctologia;7,0
 HEM;2025,0;6,0;Dermatologia;572,0
@@ -722,7 +769,7 @@ HEM;2025,0;7,0;Fisioterapia;76,0
 HEM;2025,0;7,0;Gastroenterologia;24,0
 HEM;2025,0;7,0;Ginecologia e Obstetrícia;14,0
 HEM;2025,0;7,0;Hansenologia;267,0
-HEM;2025,0;7,0;Infectologia Adulto;1229,0
+HEM;2025,0;7,0;Infectologia Adulto;1231,0
 HEM;2025,0;7,0;Nefrologia;60,0
 HEM;2025,0;7,0;Odontologia;1,0
 HEM;2025,0;7,0;Oftamologia;37,0
@@ -743,7 +790,7 @@ HEM;2025,0;8,0;Fisioterapia;113,0
 HEM;2025,0;8,0;Gastroenterologia;14,0
 HEM;2025,0;8,0;Ginecologia e Obstetrícia;51,0
 HEM;2025,0;8,0;Hansenologia;271,0
-HEM;2025,0;8,0;Infectologia Adulto;1005,0
+HEM;2025,0;8,0;Infectologia Adulto;1006,0
 HEM;2025,0;8,0;Nefrologia;58,0
 HEM;2025,0;8,0;Neurologia;12,0
 HEM;2025,0;8,0;Odontologia;6,0
@@ -788,7 +835,7 @@ HEM;2025,0;10,0;Fisioterapia;172,0
 HEM;2025,0;10,0;Gastroenterologia;26,0
 HEM;2025,0;10,0;Ginecologia e Obstetrícia;79,0
 HEM;2025,0;10,0;Hansenologia;347,0
-HEM;2025,0;10,0;Infectologia Adulto;1101,0
+HEM;2025,0;10,0;Infectologia Adulto;1103,0
 HEM;2025,0;10,0;Nefrologia;69,0
 HEM;2025,0;10,0;Neurologia;33,0
 HEM;2025,0;10,0;Odontologia;1,0
@@ -797,7 +844,7 @@ HEM;2025,0;10,0;Ortopedia e Traumatologia;31,0
 HEM;2025,0;10,0;Psicologia;126,0
 HEM;2025,0;10,0;Psiquiatria;79,0
 HEM;2025,0;10,0;Reumatologia;58,0
-HEM;2025,0;10,0;Serviço Social;249,0
+HEM;2025,0;10,0;Serviço Social;250,0
 HEM;2025,0;10,0;Terapia Ocupacional;8,0
 HEM;2025,0;10,0;Urologia;25,0
 HEM;2025,0;11,0;Anestesiologia;1,0
@@ -843,7 +890,7 @@ HEM;2025,0;12,0;Ortopedia e Traumatologia;20,0
 HEM;2025,0;12,0;Psicologia;80,0
 HEM;2025,0;12,0;Psiquiatria;79,0
 HEM;2025,0;12,0;Reumatologia;58,0
-HEM;2025,0;12,0;Serviço Social;299,0
+HEM;2025,0;12,0;Serviço Social;300,0
 HEM;2025,0;12,0;Terapia Ocupacional;18,0
 HEM;2025,0;12,0;Urologia;13,0
 HEM;2026,0;1,0;Anestesiologia;3,0
@@ -857,7 +904,7 @@ HEM;2026,0;1,0;Fisioterapia;106,0
 HEM;2026,0;1,0;Gastroenterologia;24,0
 HEM;2026,0;1,0;Ginecologia e Obstetrícia;147,0
 HEM;2026,0;1,0;Hansenologia;227,0
-HEM;2026,0;1,0;Infectologia Adulto;980,0
+HEM;2026,0;1,0;Infectologia Adulto;981,0
 HEM;2026,0;1,0;Nefrologia;50,0
 HEM;2026,0;1,0;Neurologia;35,0
 HEM;2026,0;1,0;Odontologia;9,0
@@ -944,12 +991,12 @@ HEM;2026,0;5,0;Cirurgia Plástica;58,0
 HEM;2026,0;5,0;Coloproctologia;14,0
 HEM;2026,0;5,0;Dermatologia;824,0
 HEM;2026,0;5,0;Endocrinologia e Metabologia;134,0
-HEM;2026,0;5,0;Enfermagem;572,0
+HEM;2026,0;5,0;Enfermagem;574,0
 HEM;2026,0;5,0;Fisioterapia;140,0
 HEM;2026,0;5,0;Gastroenterologia;21,0
 HEM;2026,0;5,0;Ginecologia e Obstetrícia;130,0
 HEM;2026,0;5,0;Hansenologia;284,0
-HEM;2026,0;5,0;Infectologia Adulto;1335,0
+HEM;2026,0;5,0;Infectologia Adulto;1336,0
 HEM;2026,0;5,0;Nefrologia;40,0
 HEM;2026,0;5,0;Neurologia;40,0
 HEM;2026,0;5,0;Odontologia;8,0
@@ -973,7 +1020,7 @@ HEM;2026,0;6,0;Gastroenterologia;24,0
 HEM;2026,0;6,0;Ginecologia e Obstetrícia;169,0
 HEM;2026,0;6,0;Hansenologia;254,0
 HEM;2026,0;6,0;Infectologia;20,0
-HEM;2026,0;6,0;Infectologia Adulto;1264,0
+HEM;2026,0;6,0;Infectologia Adulto;1265,0
 HEM;2026,0;6,0;Nefrologia;74,0
 HEM;2026,0;6,0;Neurologia;25,0
 HEM;2026,0;6,0;Odontologia;11,0
@@ -991,13 +1038,13 @@ HEM;2026,0;7,0;Cirurgia Plástica;33,0
 HEM;2026,0;7,0;Coloproctologia;22,0
 HEM;2026,0;7,0;Dermatologia;774,0
 HEM;2026,0;7,0;Endocrinologia e Metabologia;207,0
-HEM;2026,0;7,0;Enfermagem;909,0
+HEM;2026,0;7,0;Enfermagem;911,0
 HEM;2026,0;7,0;Fisioterapia;157,0
 HEM;2026,0;7,0;Gastroenterologia;23,0
 HEM;2026,0;7,0;Ginecologia e Obstetrícia;156,0
 HEM;2026,0;7,0;Hansenologia;326,0
 HEM;2026,0;7,0;Infectologia;33,0
-HEM;2026,0;7,0;Infectologia Adulto;1290,0
+HEM;2026,0;7,0;Infectologia Adulto;1291,0
 HEM;2026,0;7,0;Nefrologia;74,0
 HEM;2026,0;7,0;Neurologia;47,0
 HEM;2026,0;7,0;Odontologia;2,0
@@ -1015,13 +1062,13 @@ HEM;2026,0;8,0;Cirurgia Plástica;63,0
 HEM;2026,0;8,0;Coloproctologia;20,0
 HEM;2026,0;8,0;Dermatologia;912,0
 HEM;2026,0;8,0;Endocrinologia e Metabologia;109,0
-HEM;2026,0;8,0;Enfermagem;787,0
+HEM;2026,0;8,0;Enfermagem;788,0
 HEM;2026,0;8,0;Fisioterapia;146,0
 HEM;2026,0;8,0;Gastroenterologia;19,0
 HEM;2026,0;8,0;Ginecologia e Obstetrícia;182,0
 HEM;2026,0;8,0;Hansenologia;305,0
 HEM;2026,0;8,0;Infectologia;38,0
-HEM;2026,0;8,0;Infectologia Adulto;1002,0
+HEM;2026,0;8,0;Infectologia Adulto;1003,0
 HEM;2026,0;8,0;Nefrologia;73,0
 HEM;2026,0;8,0;Neurologia;34,0
 HEM;2026,0;8,0;Odontologia;11,0
@@ -1033,6 +1080,28 @@ HEM;2026,0;8,0;Reumatologia;60,0
 HEM;2026,0;8,0;Serviço Social;381,0
 HEM;2026,0;8,0;Terapia Ocupacional;21,0
 HEM;2026,0;8,0;Urologia;21,0
+HEM;2026,0;9,0;Anestesiologia;9,0
+HEM;2026,0;9,0;Cirurgia Geral;6,0
+HEM;2026,0;9,0;Cirurgia Plástica;66,0
+HEM;2026,0;9,0;Coloproctologia;27,0
+HEM;2026,0;9,0;Dermatologia;830,0
+HEM;2026,0;9,0;Endocrinologia e Metabologia;164,0
+HEM;2026,0;9,0;Enfermagem;792,0
+HEM;2026,0;9,0;Fisioterapia;148,0
+HEM;2026,0;9,0;Gastroenterologia;29,0
+HEM;2026,0;9,0;Ginecologia e Obstetrícia;144,0
+HEM;2026,0;9,0;Hansenologia;264,0
+HEM;2026,0;9,0;Infectologia;34,0
+HEM;2026,0;9,0;Infectologia Adulto;1204,0
+HEM;2026,0;9,0;Nefrologia;58,0
+HEM;2026,0;9,0;Neurologia;36,0
+HEM;2026,0;9,0;Odontologia;7,0
+HEM;2026,0;9,0;Oftamologia;38,0
+HEM;2026,0;9,0;Ortopedia e Traumatologia;26,0
+HEM;2026,0;9,0;Psicologia;92,0
+HEM;2026,0;9,0;Psiquiatria;69,0
+HEM;2026,0;9,0;Serviço Social;406,0
+HEM;2026,0;9,0;Urologia;15,0
 HRBJA;2024,0;6,0;Bucomaxilofacial;3,0
 HRBJA;2024,0;6,0;Cirurgia Geral;4,0
 HRBJA;2024,0;6,0;Cirurgia Vascular;7,0
@@ -1238,12 +1307,22 @@ HRBJA;2026,0;7,0;Neurologia Clínica;78,0
 HRBJA;2026,0;7,0;Ortopedia e Traumatologia;453,0
 HRBJA;2026,0;8,0;Bucomaxilofacial;31,0
 HRBJA;2026,0;8,0;Cirurgia Geral;75,0
-HRBJA;2026,0;8,0;Cirurgia Plástica;20,0
+HRBJA;2026,0;8,0;Cirurgia Plástica;21,0
 HRBJA;2026,0;8,0;Cirurgia Vascular;79,0
 HRBJA;2026,0;8,0;Neurocirurgia;110,0
 HRBJA;2026,0;8,0;Neurologia;99,0
 HRBJA;2026,0;8,0;Neurologia Clínica;129,0
 HRBJA;2026,0;8,0;Ortopedia e Traumatologia;481,0
+HRBJA;2026,0;9,0;Bucomaxilofacial;23,0
+HRBJA;2026,0;9,0;Cirurgia Geral;74,0
+HRBJA;2026,0;9,0;Cirurgia Plástica;23,0
+HRBJA;2026,0;9,0;Cirurgia Torácica;1,0
+HRBJA;2026,0;9,0;Cirurgia Vascular;73,0
+HRBJA;2026,0;9,0;Clínica Médica;4,0
+HRBJA;2026,0;9,0;Neurocirurgia;141,0
+HRBJA;2026,0;9,0;Neurologia;117,0
+HRBJA;2026,0;9,0;Neurologia Clínica;163,0
+HRBJA;2026,0;9,0;Ortopedia e Traumatologia;451,0
 HRJP;2024,0;11,0;Angiologia;10,0
 HRJP;2024,0;11,0;Cardiologia;74,0
 HRJP;2024,0;11,0;Cirurgia da Mão;2,0
@@ -1752,6 +1831,30 @@ HRJP;2026,0;8,0;Psicologia;164,0
 HRJP;2026,0;8,0;Serviço Social;10,0
 HRJP;2026,0;8,0;Terapia Ocupacional;81,0
 HRJP;2026,0;8,0;Urologia;245,0
+HRJP;2026,0;9,0;Anestesiologia;67,0
+HRJP;2026,0;9,0;Angiologia;12,0
+HRJP;2026,0;9,0;Cardiologia;148,0
+HRJP;2026,0;9,0;Cirurgia Geral;157,0
+HRJP;2026,0;9,0;Cirurgia Pediátrica;15,0
+HRJP;2026,0;9,0;Cirurgia Plástica;14,0
+HRJP;2026,0;9,0;Cirurgia Vascular;32,0
+HRJP;2026,0;9,0;Coloproctologia;52,0
+HRJP;2026,0;9,0;Dermatologia;67,0
+HRJP;2026,0;9,0;Endocrinologia e Metabologia;134,0
+HRJP;2026,0;9,0;Enfermagem;62,0
+HRJP;2026,0;9,0;Fisioterapia;314,0
+HRJP;2026,0;9,0;Fonoaudiologia;92,0
+HRJP;2026,0;9,0;Ginecologia e Obstetrícia;201,0
+HRJP;2026,0;9,0;Mastologia;30,0
+HRJP;2026,0;9,0;Neurocirurgia;22,0
+HRJP;2026,0;9,0;Neurologia Pediatrico;38,0
+HRJP;2026,0;9,0;Ortopedia e Traumatologia;349,0
+HRJP;2026,0;9,0;Otorrinolaringologia;31,0
+HRJP;2026,0;9,0;Pediatria;60,0
+HRJP;2026,0;9,0;Psicologia;183,0
+HRJP;2026,0;9,0;Serviço Social;8,0
+HRJP;2026,0;9,0;Terapia Ocupacional;82,0
+HRJP;2026,0;9,0;Urologia;179,0
 IRS;2023,0;8,0;Neurologia;13,0
 IRS;2023,0;8,0;Psiquiatria;278,0
 IRS;2023,0;9,0;Neurologia;22,0
@@ -1838,9 +1941,11 @@ IRS;2026,0;6,0;Psiquiatria;11,0
 IRS;2026,0;6,0;Psiquiatria IRS;258,0
 IRS;2026,0;7,0;Neurologia;2,0
 IRS;2026,0;7,0;Psiquiatria;10,0
-IRS;2026,0;7,0;Psiquiatria IRS;317,0
+IRS;2026,0;7,0;Psiquiatria IRS;318,0
 IRS;2026,0;8,0;Psiquiatria;11,0
 IRS;2026,0;8,0;Psiquiatria IRS;318,0
+IRS;2026,0;9,0;Psiquiatria;4,0
+IRS;2026,0;9,0;Psiquiatria IRS;303,0
 MOV;2023,0;4,0;Anestesiologia;2,0
 MOV;2023,0;4,0;Banco de Leite;94,0
 MOV;2023,0;4,0;Cardiologia;24,0
@@ -2549,5 +2654,23 @@ MOV;2026,0;8,0;Pediatria;54,0
 MOV;2026,0;8,0;Psicologia;88,0
 MOV;2026,0;8,0;Psiquiatria;37,0
 MOV;2026,0;8,0;Serviço Social;59,0
+MOV;2026,0;9,0;Anestesiologia;107,0
+MOV;2026,0;9,0;Banco de Leite;343,0
+MOV;2026,0;9,0;Cardiologia;162,0
+MOV;2026,0;9,0;Endocrinologia e Metabologia;67,0
+MOV;2026,0;9,0;Enfermagem;12,0
+MOV;2026,0;9,0;Enfermeiro Paliativista;1,0
+MOV;2026,0;9,0;Fisioterapia;127,0
+MOV;2026,0;9,0;Fonoaudilogia;42,0
+MOV;2026,0;9,0;Fonoaudiologia;8,0
+MOV;2026,0;9,0;Ginecologia e Obstetrícia;1257,0
+MOV;2026,0;9,0;Nefrologia;6,0
+MOV;2026,0;9,0;Neurologia;45,0
+MOV;2026,0;9,0;Nutrição;60,0
+MOV;2026,0;9,0;Oftamologia;7,0
+MOV;2026,0;9,0;Pediatria;51,0
+MOV;2026,0;9,0;Psicologia;82,0
+MOV;2026,0;9,0;Psiquiatria;31,0
+MOV;2026,0;9,0;Serviço Social;47,0
 ;;;;
 Filtros aplicados: total consultas eletivas não é 0 estabelecimento não é (Em branco), CEPAI ou MGT Status operacional é Filtro de Ex-Unidades AnoMes não é (Em branco);;;;
