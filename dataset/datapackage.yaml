@@ -8,8 +8,8 @@ resources:
     encoding: utf-8-sig
     format: csv
     hashing: md5
-    name: consultas-eletivas-2025
-    path: data/consultas-eletivas-2025.csv
+    name: consultas-eletivas
+    path: data/consultas-eletivas.csv
     profile: tabular-data-resource
     schema:
       fields:
